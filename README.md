@@ -1,0 +1,2 @@
+# RectangleCreux
+Simple Exercise.
